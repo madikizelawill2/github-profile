@@ -7,7 +7,7 @@ Hi, I'm Will Madikizela!
 
 <hr>
 
-## 🤝 Connect with me
+<h1 align="center">## 🤝 Connect with me</h1>
 <p align="center">
 	<a href="mailto:madikizelawill2@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/madikizela-will/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
