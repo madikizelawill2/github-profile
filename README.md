@@ -5,7 +5,7 @@ Hi, I'm Will Madikizela!
 	</a>
 </h1>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/madikizelwill2">
 		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
 	</a>
 	<a href="https://github.com/Bouaskaoun">
