@@ -57,7 +57,7 @@ Hi, I'm Will Madikizela!
 ## <a href="https://github.com/madikizelawill2"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
 <br/>
-<summary><b>⚡ Bouaskaoun's Stats</b></summary>
+<summary><b>⚡ Will's Stats</b></summary>
 <br/>
 <p align="center">
 	<a href="https://github.com/madikizelawill2">
